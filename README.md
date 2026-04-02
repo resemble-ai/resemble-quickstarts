@@ -46,6 +46,9 @@ node websocket_streaming.js
 | Example              | Python | JS |
 |----------------------|--------|----|
 | WebSocket Streaming  | [raw](python/raw/websocket_streaming.py) | [raw](js/raw/websocket_streaming.js) |
+| Synchronous TTS      | [raw](python/raw/synthesize.py) | [raw](js/raw/synthesize.js) |
+| HTTP Streaming TTS   | [raw](python/raw/stream.py) | [raw](js/raw/stream.js) |
+| Speech-to-Speech     | [raw](python/raw/speech_to_speech.py) | [raw](js/raw/speech_to_speech.js) |
 | Deepfake Detection   | [raw](python/raw/detect.py) | [raw](js/raw/detect.js) |
 | Media Intelligence   | [raw](python/raw/intelligence.py) | [raw](js/raw/intelligence.js) |
 | Audio Watermarking   | [raw](python/raw/watermark.py) | [raw](js/raw/watermark.js) |
