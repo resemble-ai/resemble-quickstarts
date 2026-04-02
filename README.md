@@ -20,6 +20,10 @@ js/
    ```
    export RESEMBLE_API_KEY="your_api_key"
    ```
+3. For detection, intelligence, and watermarking examples, export a media URL:
+   ```
+   export MEDIA_URL="https://example.com/your-audio-file.wav"
+   ```
 
 ### Python
 
@@ -42,3 +46,6 @@ node websocket_streaming.js
 | Example              | Python | JS |
 |----------------------|--------|----|
 | WebSocket Streaming  | [raw](python/raw/websocket_streaming.py) | [raw](js/raw/websocket_streaming.js) |
+| Deepfake Detection   | [raw](python/raw/detect.py) | [raw](js/raw/detect.js) |
+| Media Intelligence   | [raw](python/raw/intelligence.py) | [raw](js/raw/intelligence.js) |
+| Audio Watermarking   | [raw](python/raw/watermark.py) | [raw](js/raw/watermark.js) |
