@@ -7,10 +7,10 @@ Quick start examples for the [Resemble AI](https://www.resemble.ai/) API in Pyth
 ```
 python/
   raw/   — Direct API calls (no SDK)
-  sdk/   — Using the Resemble Python SDK
+  sdk/   — Using the Resemble Python SDK (Coming Soon)
 js/
   raw/   — Direct API calls (no SDK)
-  sdk/   — Using the Resemble Node SDK
+  sdk/   — Using the Resemble Node SDK (Coming Soon)
 ```
 
 ## Setup
