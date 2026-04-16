@@ -1,6 +1,6 @@
 # Resemble Examples
 
-Quick start examples for the [Resemble AI](https://www.resemble.ai/) API in Python and JavaScript.
+Quick start examples for the [Resemble AI](https://www.resemble.ai/) API in Python and JavaScript. For the full API reference, see [docs.resemble.ai](https://docs.resemble.ai).
 
 ## Structure
 
